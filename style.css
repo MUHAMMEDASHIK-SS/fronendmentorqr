@@ -3,7 +3,7 @@ body{
     background-color: hsl(212, 45%, 89%);
     
 }
-#fbox{
+main{
     width: 320px;
     height: 500px;
     background-color: hsl(0, 0%, 100%);
@@ -25,11 +25,12 @@ body{
     
     border-radius: 12px;
 }
-h2{
+h1{
     text-align: center;
     padding:0rem 1.3rem;
     color: hsl(218, 44%, 22%);
     margin-bottom: 0;
+     font-size: 25px;
 }
 p{
     text-align: center;
